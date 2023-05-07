@@ -56,14 +56,14 @@ const Header = () => {
           </a>
           <a
             onClick={() => setHeaderToggle(false)}
-            href="#"
+            href="#tokenomics"
             className="text-white font-bold text-xl xl:text-2xl"
           >
             Tokenomics
           </a>
           <a
             onClick={() => setHeaderToggle(false)}
-            href="#"
+            href="#faq"
             className="text-white font-bold text-xl xl:text-2xl"
           >
             FAQ

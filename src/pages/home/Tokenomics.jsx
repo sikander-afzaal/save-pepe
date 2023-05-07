@@ -1,6 +1,9 @@
 const Tokenomics = () => {
   return (
-    <div className="wrapper py-[60px] bg-tokenomic bg-cover bg-no-repeat sm:py-[100px]">
+    <section
+      id="tokenomics"
+      className="wrapper py-[60px] bg-tokenomic bg-cover bg-no-repeat sm:py-[100px]"
+    >
       <div className="contain xl:flex-row flex-col justify-between items-center xl:items-start gap-10">
         <div className="flex justify-start items-center  xl:items-start flex-col gap-8">
           <h3 className="text-white leading-[1.25] text-[26px] sm:text-[40px] text-center xl:text-left 2xl:text-[58px] font-bold">
@@ -49,7 +52,7 @@ const Tokenomics = () => {
           alt=""
         />
       </div>
-    </div>
+    </section>
   );
 };
 

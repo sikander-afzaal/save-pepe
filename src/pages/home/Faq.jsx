@@ -43,7 +43,10 @@ const Faq = () => {
     },
   ];
   return (
-    <div className="wrapper py-[60px] bg-faq bg-cover bg-no-repeat sm:py-[100px]">
+    <section
+      id="faq"
+      className="wrapper py-[60px] bg-faq bg-cover bg-no-repeat sm:py-[100px]"
+    >
       <div className="contain justify-center">
         <div className="flex w-full justify-start max-w-[1035px] items-start flex-col gap-5 mt-5">
           {DATA.map((elem, idx) => {
@@ -51,7 +54,7 @@ const Faq = () => {
           })}
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

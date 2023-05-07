@@ -70,3 +70,7 @@
     bottom right, bottom center, bottom left, center left;
   background-repeat: no-repeat;
 }
+html {
+  scroll-behavior: smooth;
+  scroll-padding-block: 100px;
+}
