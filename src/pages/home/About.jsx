@@ -9,7 +9,7 @@ const About = () => {
             for you
           </h2>
           <p className="font-comic max-w-[720px] text-lg font-normal text-[#d9dee2]">
-            With $MEMEP you will accumulate good projects on multiple chains
+            With $SPEPE you will accumulate good projects on multiple chains
             throughout the bear market, just by holding! <br />
             You asked for ARBI season, we're here to ignite it. Be a part of the
             most exciting new community on the chain from the beginning!
@@ -19,12 +19,12 @@ const About = () => {
           <AboutBox
             img="/uptodate.png"
             title="Stay up to date"
-            desc="Our goal is to become the ultimate community hub on the Arbitrum chain. We're an active community and regularly hold AMAs with teams and project updates."
+            desc="Our goal is to become the ultimate community hub on the binance chain. We're an active community and regularly hold AMAs with teams and project updates."
           />
           <AboutBox
             img="/portfolio.png"
             title="Diversify your portfolio"
-            desc="Our contract buys the best projects on Arbitrum. Trusting the wisdom of the crowd to decide which projects to chose through our governance system."
+            desc="Our contract buys the best projects on binance. Trusting the wisdom of the crowd to decide which projects to chose through our governance system."
           />
           <AboutBox
             img="/rewards.png"
@@ -44,7 +44,7 @@ const About = () => {
           <AboutBox
             img="/expansion.png"
             title="Expansion"
-            desc="$SPEPE Finance will start on Arbitrum with plans to go cross-chain and accumulate ERC-20 tokens from additional chains in the future. Details TBA however the OG $SPEPE token will remain the key to accessing future launches."
+            desc="$SPEPE Finance will start on binance with plans to go cross-chain and accumulate ERC-20 tokens from additional chains in the future. Details TBA however the OG $SPEPE token will remain the key to accessing future launches."
           />
         </div>
       </div>

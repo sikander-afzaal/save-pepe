@@ -3,34 +3,34 @@ import FaqBtn from "../../components/FaqBtn";
 const Faq = () => {
   const DATA = [
     {
-      question: "What is PEPE Finance ($PEPE)?",
+      question: "What is PEPE Finance ($SPEPE)?",
       answer:
-        "PEPE Finance is a multi-currency and multi-chain reward token. By buying and holding $PEPE you are farming rewards and accumulating tokens supported by the PEPE Finance protocol. These tokens are researched and reviewed by our crypto analysts.",
+        "PEPE Finance is a multi-currency and multi-chain reward token. By buying and holding $SPEPE you are farming rewards and accumulating tokens supported by the PEPE Finance protocol. These tokens are researched and reviewed by our crypto analysts.",
     },
     {
-      question: "What is the benefit of holding $PEPE?",
+      question: "What is the benefit of holding $SPEPE?",
       answer:
-        "By simply holding $PEPE, the Hamachi Finance protocol will distribute rewards by the platform directly to you.",
+        "By simply holding $SPEPE, the Hamachi Finance protocol will distribute rewards by the platform directly to you.",
     },
     {
       question: "How do I get my rewards?",
       answer:
-        "You'll be airdropped your rewards once you're first in queue. You can choose to enable Manual Claim or even 'GO PEPE', this turns your rewards into $PEPE.",
+        "You'll be airdropped your rewards once you're first in queue. You can choose to enable Manual Claim or even 'GO PEPE', this turns your rewards into $SPEPE.",
     },
     {
       question: "How are rewards generated?",
       answer:
-        "Each buy and sell will be taxed 7%, which will only be used to buy tokens and redistribute to $PEPE holders as rewards and provide liquidity to $PEPE LP. (% tax subject to change).",
+        "Each buy and sell will be taxed 7%, which will only be used to buy tokens and redistribute to $SPEPE holders as rewards and provide liquidity to $SPEPE LP. (% tax subject to change).",
     },
     {
-      question: "How do projects benefit from $PEPE?",
+      question: "How do projects benefit from $SPEPE?",
       answer:
-        "Projects benefit from $PEPE by gaining exposure and increased unique holders who may not have ever heard of your project.",
+        "Projects benefit from $SPEPE by gaining exposure and increased unique holders who may not have ever heard of your project.",
     },
     {
       question: "Which tokens will be farmed?",
       answer:
-        "To begin, $PEPE will begin farming tokens on Arbitrum with plans to go cross-chain and multi-chain to farm additional tokens. With our revolutionary technology we are going to bring mass exposure and rewards to holders via Hamachi Finance.",
+        "To begin, $SPEPE will begin farming tokens on binance with plans to go cross-chain and multi-chain to farm additional tokens. With our revolutionary technology we are going to bring mass exposure and rewards to holders via Hamachi Finance.",
     },
     {
       question: "What chains do you plan on expanding?",
