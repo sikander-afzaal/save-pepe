@@ -19,12 +19,12 @@ const About = () => {
           <AboutBox
             img="/uptodate.png"
             title="Stay up to date"
-            desc="Our goal is to become the ultimate community hub on the binance chain. We're an active community and regularly hold AMAs with teams and project updates."
+            desc="Our goal is to become the ultimate community hub on the Binance  Smart  Chain. We're an active community and regularly hold AMAs with teams and project updates."
           />
           <AboutBox
             img="/portfolio.png"
             title="Diversify your portfolio"
-            desc="Our contract buys the best projects on binance. Trusting the wisdom of the crowd to decide which projects to chose through our governance system."
+            desc="Our contract buys the best projects on Binance  Smart  Chain. Trusting the wisdom of the crowd to decide which projects to chose through our governance system."
           />
           <AboutBox
             img="/rewards.png"
@@ -44,7 +44,7 @@ const About = () => {
           <AboutBox
             img="/expansion.png"
             title="Expansion"
-            desc="$SPEPE Finance will start on binance with plans to go cross-chain and accumulate ERC-20 tokens from additional chains in the future. Details TBA however the OG $SPEPE token will remain the key to accessing future launches."
+            desc="$SPEPE Finance will start on Binance  Smart  Chain with plans to go cross-chain and accumulate ERC-20 tokens from additional chains in the future. Details TBA however the OG $SPEPE token will remain the key to accessing future launches."
           />
         </div>
       </div>

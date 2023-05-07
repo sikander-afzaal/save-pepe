@@ -30,12 +30,12 @@ const Faq = () => {
     {
       question: "Which tokens will be farmed?",
       answer:
-        "To begin, $SPEPE will begin farming tokens on binance with plans to go cross-chain and multi-chain to farm additional tokens. With our revolutionary technology we are going to bring mass exposure and rewards to holders via Hamachi Finance.",
+        "To begin, $SPEPE will begin farming tokens on Binance  Smart  Chain with plans to go cross-chain and multi-chain to farm additional tokens. With our revolutionary technology we are going to bring mass exposure and rewards to holders via Hamachi Finance.",
     },
     {
       question: "What chains do you plan on expanding?",
       answer:
-        "We are exploring all the chains starting with L2s and side-chains. (Optimism, Avalanche, Binance Smart Chain, Pulsechain, and more)",
+        "We are exploring all the chains starting with L2s and side-chains. (Optimism, Avalanche, Binance  Smart  Chain Smart Chain, Pulsechain, and more)",
     },
     {
       question: "Tokenomics",
