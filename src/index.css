@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap");
+@font-face {
+  font-family: Lapsus;
+  src: url("/font/LapsusPro-Bold.otf");
+  font-weight: 700;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-body;
+  }
+  html {
+    @apply overflow-x-hidden;
+  }
+}
+
+@layer utilities {
+  .wrapper {
+    @apply flex justify-start items-center flex-col w-full;
+  }
+  .contain {
+    @apply flex w-[90%] max-w-[1500px];
+  }
+}
+.text-stroke {
+  /* Prefix required. Even Firefox only supports the -webkit- prefix */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+.greenBorder {
+  background-image: radial-gradient(
+      circle at 100% 100%,
+      transparent 17px,
+      #25894b 17px,
+      #25894b 19px,
+      transparent 19px
+    ),
+    linear-gradient(to right, #25894b, #25894b),
+    radial-gradient(
+      circle at 0% 100%,
+      transparent 17px,
+      #25894b 17px,
+      #25894b 19px,
+      transparent 19px
+    ),
+    linear-gradient(to bottom, #25894b, #8fda64),
+    radial-gradient(
+      circle at 0% 0%,
+      transparent 17px,
+      #8fda64 17px,
+      #8fda64 19px,
+      transparent 19px
+    ),
+    linear-gradient(to left, #8fda64, #8fda64),
+    radial-gradient(
+      circle at 100% 0%,
+      transparent 17px,
+      #8fda64 17px,
+      #8fda64 19px,
+      transparent 19px
+    ),
+    linear-gradient(to top, #8fda64, #25894b);
+  background-size: 19px 19px, calc(100% - 38px) 2px, 19px 19px,
+    2px calc(100% - 38px);
+  background-position: top left, top center, top right, center right,
+    bottom right, bottom center, bottom left, center left;
+  background-repeat: no-repeat;
+}
